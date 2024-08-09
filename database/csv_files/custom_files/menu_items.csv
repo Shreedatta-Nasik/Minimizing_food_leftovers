@@ -1,0 +1,5 @@
+item_id,max_quantity,min_quantity,price,item_name
+1,100,2,8,"Jowar Roti"
+2,100,2,8,"Wheat chapathi"
+3,5000,100,20,"Green leaf curry"
+4,5000,100,20,"Brinjal Curry"
